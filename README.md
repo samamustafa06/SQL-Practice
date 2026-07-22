@@ -1,10 +1,18 @@
 # SQL Practice
 
-Welcome to my SQL practice repository!
+![SQL](https://img.shields.io/badge/SQL-Learning-blue)
+![LeetCode](https://img.shields.io/badge/LeetCode-18%20Problems-orange)
+![GitHub](https://img.shields.io/badge/Status-In%20Progress-success)
 
-This repository showcases my SQL learning journey through solving real-world database queries and practicing SQL concepts.
+## 📖 About
 
-## 📚 What I Practiced
+This repository documents my SQL learning journey through solving LeetCode SQL challenges and practicing database queries using an E-commerce database.
+
+It covers fundamental and intermediate SQL concepts while improving my problem-solving and database querying skills.
+
+---
+
+## 📚 SQL Concepts Covered
 
 - SELECT
 - WHERE
@@ -19,23 +27,54 @@ This repository showcases my SQL learning journey through solving real-world dat
 - String Functions
 - Date Functions
 
+---
+
 ## 💻 Practice Sources
 
-- Solved 18 SQL problems from the LeetCode SQL Study Plan.
-- Practiced writing SQL queries using an E-commerce database.
+- ✅ Solved **18 SQL problems** from the **LeetCode SQL Study Plan**.
+- ✅ Practiced writing SQL queries using an **E-commerce Database**.
+- ✅ Applied SQL concepts to retrieve, filter, group, and analyze data.
 
-## 🛠 Skills
+---
+
+## 🛠 Technologies
 
 - SQL
 - Relational Databases
+- Git
+- GitHub
+
+---
+
+## 🎯 Skills Gained
+
 - Data Retrieval
+- Filtering & Sorting
+- SQL Joins
+- Aggregate Functions
 - Query Optimization (Basics)
 - Database Design (Basics)
 
+---
+
 ## 🚀 Next Goals
 
-- Solve all LeetCode SQL problems
+- Complete the entire LeetCode SQL Study Plan
 - Learn Advanced SQL
-- Practice with PostgreSQL & SQL Server
+- Practice with PostgreSQL
+- Practice with Microsoft SQL Server
 
-Thanks for visiting! ⭐
+---
+
+## 📂 Repository Structure
+
+```
+SQL-Practice/
+│
+├── README.md
+└── ecommerce_db_Queries_examples.sql
+```
+
+---
+
+⭐ Feel free to explore the repository and share your feedback!
